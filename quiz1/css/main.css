@@ -1,0 +1,55 @@
+body{
+	background-color:red;
+	color:orange;
+}
+h2{
+	color:purple;
+	font-size:20px;
+        
+}
+li {
+  text-align: beginning;
+  color: pink;
+  font-size:20px;
+  
+}
+#para1 {
+  text-align: center;
+  color: purple;
+ 
+}
+.center {
+  text-align: center;
+  color: red;
+  font-size:20px;
+  
+}
+<p class="center large">This paragraph refers to two classes.</p>
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+body {
+  background-color: purple;
+  background-image:url(https://cdn.autoportal.com/img/news/4859/main/main.jpg);
+
+); 
+}
+h5{
+  color: red;
+  font-size:20px;
+  
+
+
+  
+}
+p {
+  color: white; 
+  font-size:20px;
+  
+}
+
+  font-family: orange;
+  font-size:20px;
+}
+
